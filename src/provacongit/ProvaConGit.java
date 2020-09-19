@@ -16,6 +16,8 @@ public class ProvaConGit {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        
+        //aggiungo un commento per vedere la gestione dei commit
     }
     
 }
